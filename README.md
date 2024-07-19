@@ -21,11 +21,3 @@ This collaborative text editor is designed to enable real-time collaborative edi
 - **Conflict Resolution**: Algorithms for resolving conflicts that arise during simultaneous editing.
 
 ## Tools Used : VS Code
-
-## ScreenShots:
-
-
-![image](https://github.com/Sri-Sakthi-CB/Collaborative-Text-Editing-System/assets/95374074/50fd48a4-2cfd-4144-b6d1-75a14494ae7f)
-
-
-```
